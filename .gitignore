@@ -1,5 +1,6 @@
 Models/
-Data/
+Flicker8k_Dataset/
+Flickr8k_text/
 tokenizer.pkl
 model.png
 features.pkl
